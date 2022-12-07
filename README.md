@@ -1,4 +1,4 @@
-# Covid19 Project based on America Data End2End
+# Europe Covid Project
 * The main objective of this project is to use raw data to perform **ETL** (Extract, Transform and Load) using  **Azure Data Factory**.
 
 ### Types of files and data used in the project are listed below:
